@@ -1,0 +1,10 @@
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.exe.config
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.exe
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.pdb
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora_2.Calculadora.resources
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora_2.Properties.Resources.resources
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.exe
+C:\Users\thiag\OneDrive\VSC#\Git\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.pdb
