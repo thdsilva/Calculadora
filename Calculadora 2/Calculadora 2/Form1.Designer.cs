@@ -296,6 +296,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(233, 228);
+            this.MinimumSize = new System.Drawing.Size(233, 228);
             this.Name = "Calculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
