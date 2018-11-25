@@ -23,6 +23,7 @@ namespace Calculadora_2
 
         private void button_Click(object sender, EventArgs e)
         {
+            //teste Commit
             if ((result.Text == "0") || (operacao_pressionada))
                 result.Clear();
             operacao_pressionada = false;

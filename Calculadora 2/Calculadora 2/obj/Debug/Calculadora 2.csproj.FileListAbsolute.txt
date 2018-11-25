@@ -18,3 +18,13 @@ C:\Users\thiag\Source\Repos\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Ca
 C:\Users\thiag\Source\Repos\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csproj.CoreCompileInputs.cache
 C:\Users\thiag\Source\Repos\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.exe
 C:\Users\thiag\Source\Repos\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.pdb
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.exe.config
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.exe
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\bin\Debug\Calculadora 2.pdb
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csprojAssemblyReference.cache
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora_2.Calculadora.resources
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora_2.Properties.Resources.resources
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csproj.GenerateResource.cache
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.exe
+C:\Users\Thiago Silva\Source\Repos\thdsilva\Calculadora\Calculadora 2\Calculadora 2\obj\Debug\Calculadora 2.pdb
